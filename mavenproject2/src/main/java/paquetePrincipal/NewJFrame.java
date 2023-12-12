@@ -166,7 +166,7 @@ public class NewJFrame extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        jLabel3.setText("Pablito");
+        jLabel3.setText("Bonifacio");
 
         jMenu1.setText("File");
         jMenuBar1.add(jMenu1);
